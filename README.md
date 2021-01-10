@@ -1,4 +1,4 @@
-# speech-to-text
+# Speech To Text
 
 Script allows to convert video to audio -> extract speech from audio -> save it to file and analyse text for duplicates for example and show result as a chart
 
